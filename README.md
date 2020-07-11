@@ -15,21 +15,20 @@ java -jar target/community-0.0.1-SNAPSHOT.jar
 http://localhost:8887
 
 资料
-Spring 文档 https://spring.io/guides
-Spring Web https://spring.io/guides/gs/serving-web-content/
-es  https://elasticsearch.cn/explore
-Github deploy key
-Bootstrap  
-https://v3.bootcss.com/getting-started/
-Github OAuth
-Spring
-菜鸟教程
-Thymeleaf
-Spring Dev Tool
-Spring MVC
-Markdown 插件
-UFfile SDK
-Count(*) VS Count(1)
+[Spring 文档](https://spring.io/guides) 
+[Spring Web]( https://spring.io/guides/gs/serving-web-content/)
+[es](  https://elasticsearch.cn/explore)
+[Github deploy key]()
+[Bootstrap](https://v3.bootcss.com/getting-started/)
+[Github OAuth]()
+[Spring]()
+[菜鸟教程]()
+[Thymeleaf]()
+[Spring Dev Tool]()
+[Spring MVC]()
+[Markdown 插件]()
+[UFfile SDK]()
+[Count(*) VS Count(1)]()
 
 工具
 
@@ -64,3 +63,5 @@ mvn -Dmybatis.generator.overwrite=true mybatis-generator:generate
 2019-8-18 修复搜索输入 ? 号出现异常问题
 2019-8-22 修复图片大小限制和提问内容为空问题
 2019-9-1 添加动态导航栏
+
+
